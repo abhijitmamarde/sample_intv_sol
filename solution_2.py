@@ -26,7 +26,7 @@ def get_swapped_words(words):
         swapped_words.append("".join(swapped_word))
     return swapped_words
 
-# Main Function: swap_chars
+# Main Function: "swap_chars"
 def swap_chars(input_str):
     # TODO: implement the real logic here!!!
     # raise NotImplementedError("TODO: implement the real logic here!!!")
